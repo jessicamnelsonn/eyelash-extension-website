@@ -5,6 +5,6 @@
     <button class="p-4 m-4 bg-[#B7B5E4] rounded-md text-xl">Book Now</button>
   </section>
   <section class="w-1/2">
-    <img src="/images/hero-eyelash.jpg" alt="black and white focusing on eye">
+    <img src="images/hero-eyelash.jpg" alt="black and white focusing on eye">
   </section>
 </main>
