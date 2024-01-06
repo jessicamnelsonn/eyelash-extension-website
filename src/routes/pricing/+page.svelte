@@ -1,5 +1,5 @@
 <main class="m-4">
-<div class="max-w-3xl mx-auto p-8 bg-white shadow-md rounded-md mt-8">
+<div class="max-w-3xl mx-auto p-8 bg-pink-100 shadow-xl rounded-md mt-8">
 
   <h2 class="text-2xl font-semibold mb-4">Classic Lash Extensions:</h2>
   <div class="grid grid-cols-2 gap-4">
