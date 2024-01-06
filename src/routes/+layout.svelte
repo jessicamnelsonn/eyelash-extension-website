@@ -1,5 +1,9 @@
 <script>
   import "../app.css";
+
+  import Hero from "../lib/components/Hero.svelte" 
 </script>
+
+<Hero />
 
 <slot />
